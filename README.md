@@ -34,4 +34,4 @@ and documenting my journey through visual diagrams.
 
 ---
 
-![Phishing Attack Diagram](phishing-attack-diagram.png)
+![Phishing Attack Diagram](Phishing%20Attack%20Diagram.png)
