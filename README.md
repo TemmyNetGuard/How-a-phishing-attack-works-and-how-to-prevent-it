@@ -1,4 +1,5 @@
-# How-a-phishing-attack-works-and-how-to-prevent-it
+# How a Phishing Attack Works and How to Prevent It
+
 A visual cybersecurity diagram created using Draw.io
 showing how hackers use phishing emails to steal 
 credentials, and how a spam filter stops them.
@@ -12,6 +13,8 @@ credentials, and how a spam filter stops them.
 - What happens when the fake email reaches the victim
 - How the victim gets directed to a fake website
 - How credentials and data get stolen
+
+![Phishing Attack Diagram](Phishing%20Attack%20Diagram.png)
 
 ---
 
@@ -31,7 +34,3 @@ before they ever reach the victim.
 ## Author
 Alausa Temitope | Cybersecurity Student | Currently learning cybersecurity
 and documenting my journey through visual diagrams.
-
----
-
-![Phishing Attack Diagram](Phishing%20Attack%20Diagram.png)
